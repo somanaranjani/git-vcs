@@ -1,1 +1,1 @@
-print("Hi this is Ranjani starting her Git journey")
+print("Hi this is Ranjani starting her Git journey from today")
